@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,100:2E9EF7&height=220&section=header&text=Mohamed%20Wasim&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20-%20Scalable%20APIs%20%26%20Event-Driven%20Systems&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,100:2E9EF7&height=200&section=header&animation=fadeIn" />
+
+<h1 align="center">Mohamed Wasim</h1>
+<h3 align="center">Backend Engineer — Scalable APIs, Microservices &amp; Event-Driven Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohwasim">
