@@ -1,5 +1,4 @@
-<h1 align="center">Mohamed Wasim</h1>
-<h3 align="center">Backend Engineer — Scalable APIs, Microservices & Event-Driven Systems</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,100:2E9EF7&height=220&section=header&text=Mohamed%20Wasim&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20-%20Scalable%20APIs%20%26%20Event-Driven%20Systems&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohwasim">
@@ -13,8 +12,28 @@
 </p>
 
 <p align="center">
-I design and ship backend systems that stay reliable under real production load — REST APIs, event-driven services, and data pipelines built on Java/Spring Boot and Python/FastAPI.
+I design and ship backend systems that stay reliable under real production load — REST APIs, event-driven services, and data pipelines built on Java/Spring Boot and Python/FastAPI. I also build full-stack products end-to-end when the problem calls for it.
 </p>
+
+---
+
+### Featured Build
+
+**[OrcaChat](https://github.com/Wasims07/OrcaChat)** — a privacy-first AI chat client. Bring your own model key (OpenAI-compatible, Anthropic, Gemini, or local Ollama); everything is stored client-side, encrypted with AES-256-GCM, and the server never persists a single message.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+- **Zero server-side data retention** — chats and API keys never leave the browser; the backend only proxies model calls.
+- **Multi-provider routing** with auto-detection from key prefix, base URL, or model name — OpenAI-compatible APIs, Anthropic, Gemini, and local models.
+- **Hardened by default** — CSP, `X-Frame-Options: DENY`, `Referrer-Policy: no-referrer`, Redis-backed sliding-window rate limiting with in-memory fallback.
+- File understanding (PDF, DOCX, XLSX) and client-side OCR for images, so text extraction works even with non-vision models.
+- Shipped with a real Vitest suite covering storage, crypto round-trips, and retention/pinning logic — [live demo](https://orcachatone.vercel.app).
 
 ---
 
@@ -42,6 +61,8 @@ I design and ship backend systems that stay reliable under real production load 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 **Data & Messaging**
@@ -58,6 +79,7 @@ I design and ship backend systems that stay reliable under real production load 
   <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -77,11 +99,11 @@ I design and ship backend systems that stay reliable under real production load 
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| [OrcaChat](https://github.com/Wasims07/OrcaChat) | Full-stack product build — client-side encryption, multi-provider AI routing, security-hardened API layer | Next.js, React 19, TypeScript |
 | [Enterprise Microservices Platform](https://github.com/Wasims07/Enterprise-Microservices-Platform) | Service discovery (Eureka), API gateway routing, and Kafka-based async communication across services | Java, Spring Boot, Kafka, Eureka |
 | [Weather API Service](https://github.com/Wasims07/weather-api-service) | Caching strategy with Redis, external API integration, clean FastAPI endpoint design | Python, FastAPI, Redis |
 | [Employee Management System](https://github.com/Wasims07/Employee-Management-System) | Full CRUD lifecycle with layered architecture (controller/service/repository) | Java, Spring Boot, PostgreSQL, JPA |
 | [Music Database Management System](https://github.com/Wasims07/Music-Database-Management-System) | Relational schema design — normalized tables, views, and triggers for data integrity | SQL |
-| [Web Development College Exercises](https://github.com/Wasims07/Web-Development-College-Exercises) | Frontend fundamentals — semantic HTML, CSS layout, vanilla JS | HTML, CSS, JavaScript |
 
 *Each repo README includes setup instructions and, where relevant, the design decisions behind it.*
 
@@ -98,3 +120,5 @@ I design and ship backend systems that stay reliable under real production load 
 I'm open to backend/API contract work and full-time roles with EU-based teams — happy to jump on a call during CET business hours.
 
 📧 [wasimakramuj@gmail.com](mailto:wasimakramuj@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/mohwasim](https://www.linkedin.com/in/mohwasim)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1B2735&height=120&section=footer&animation=fadeIn" />
