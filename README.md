@@ -89,7 +89,7 @@ I design and ship backend systems that stay reliable under real production load 
 
 ### Experience
 
-**Backend Developer — Triton Tech Labs** &nbsp;·&nbsp; 2024 – Present
+**Backend Developer — Triton Tech Labs** &nbsp;·&nbsp; 2025 – Present
 
 - Own a Spring Boot microservice handling entity management for internal tooling; reduced average query latency by 25% via index tuning and JPA query rewrites.
 - Introduced a Kafka-based proof-of-concept for real-time inter-service notifications, presented to the team as a candidate pattern for the next platform iteration.
